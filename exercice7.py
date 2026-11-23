@@ -9,4 +9,4 @@ else:
     if apres_arobase.find(".") == -1:
         print("Adresse invalide : il manque un point après le @.")
     else:
-        print("L'adresse semble valide.")
+        print("L'adresse est valide.")
